@@ -345,7 +345,7 @@
 	border:1px solid #e1e1e1;
 	margin-bottom:20px;
 	}
-.skills-bg, .skills-bg1, .skills-bg2, .skills-bg3, .skills-bg4, .skills-bg5 {
+.skills-bg, .skills-bg1, .skills-bg2, .skills-bg3, .skills-bg4, .skills-bg5,  .skills-bg6, .skills-bg7, .skills-bg8{
 	clear:both;
 	float:left;
 	background:#ff3300;
@@ -368,6 +368,15 @@
 	}
 .skills-bg5{
 	width:70%;
+	}
+.skills-bg6{
+	width:20%;
+	}
+.skills-bg7{
+	width:30%;
+	}
+.skills-bg8{
+	width:20%;
 	}
 /*----mystats---*/
 .myStats{
