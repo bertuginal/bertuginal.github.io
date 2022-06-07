@@ -345,7 +345,7 @@
 	border:1px solid #e1e1e1;
 	margin-bottom:20px;
 	}
-.skills-bg, .skills-bg1, .skills-bg2, .skills-bg3, .skills-bg4, .skills-bg5,  .skills-bg6, .skills-bg7, .skills-bg8{
+.skills-bg, .skills-bg1, .skills-bg2, .skills-bg3, .skills-bg4, .skills-bg5,  .skills-bg6, .skills-bg7, .skills-bg8, .skills-bg9, .skills-bg10{
 	clear:both;
 	float:left;
 	background:#ff3300;
@@ -377,6 +377,12 @@
 	}
 .skills-bg8{
 	width:20%;
+	}
+.skills-bg9{
+	width:100%;
+	}
+.skills-bg10{
+	width:60%;
 	}
 /*----mystats---*/
 .myStats{
@@ -496,7 +502,7 @@
 	top:50%;
 	z-index:-99;
 	}
-.article:hover .fa-graduation-cap,.article:hover  .fa-briefcase{
+.article:hover .fa-graduation-cap,.article:hover  .fa-briefcase, .article:hover .fa-language{
 	color:red;
 	}
 .resume-left-icon{
@@ -504,7 +510,7 @@
 	left:-7%;
 	top:40%;
 	}
-.resume-left-icon .fa-graduation-cap, .resume-left-icon  .fa-briefcase{
+.resume-left-icon .fa-graduation-cap, .resume-left-icon  .fa-briefcase, .resume-left-icon  .fa-language{
 	font-size:1.6em !important;
 	color:#3F3F3F;
 	background:#fff;
