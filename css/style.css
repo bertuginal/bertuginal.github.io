@@ -135,7 +135,7 @@
 	margin-left:5px;
 	transition:all ease-in-out 300ms;
 	}
-.fa-facebook:hover, .fa-twitter:hover, .fa-google-plus:hover, .fa-github-alt:hover, .fa-linkedin:hover, .fa-instagram:hover, .fa-youtube:hover {
+.fa-facebook:hover, .fa-twitter:hover, .fa-google-plus:hover, .fa-github-alt:hover, .fa-instagram:hover, .fa-youtube:hover {
 	color:#fff;
 	background:#ff3300;
 	cursor:pointer;
