@@ -123,7 +123,7 @@
 	font-size:16px !important;
 	font-weight:lighter;
 	}
-.fa-facebook, .fa-twitter, .fa-google-plus, .fa-github-alt, .fa fa-linkedin {
+.fa-facebook, .fa-twitter, .fa-google-plus, .fa-github-alt, .fa-linkedin, .fa-instagram, .fa-youtube {
 	color:#1a1a1a;
 	background:#fff;
 	font-size:1.5em !important;
@@ -135,7 +135,7 @@
 	margin-left:5px;
 	transition:all ease-in-out 300ms;
 	}
-.fa-facebook:hover, .fa-twitter:hover, .fa-google-plus:hover, .fa-github-alt:hover, .fa fa-linkedin:hover {
+.fa-facebook:hover, .fa-twitter:hover, .fa-google-plus:hover, .fa-github-alt:hover, .fa-linkedin:hover, .fa-instagram:hover, .fa-youtube:hover {
 	color:#fff;
 	background:#ff3300;
 	cursor:pointer;
@@ -345,7 +345,7 @@
 	border:1px solid #e1e1e1;
 	margin-bottom:20px;
 	}
-.skills-bg, .skills-bg1, .skills-bg2, .skills-bg3, .skills-bg4, .skills-bg5,  .skills-bg6, .skills-bg7, .skills-bg8, .skills-bg9, .skills-bg10{
+.skills-bg, .skills-bg1, .skills-bg2, .skills-bg3, .skills-bg4, .skills-bg5,  .skills-bg6, .skills-bg7, .skills-bg8, .skills-bg9, .skills-bg10, .skills-bg11{
 	clear:both;
 	float:left;
 	background:#ff3300;
@@ -383,6 +383,9 @@
 	}
 .skills-bg10{
 	width:60%;
+	}
+.skills-bg11{
+	width:15%;
 	}
 /*----mystats---*/
 .myStats{
@@ -896,7 +899,7 @@
 	margin:auto;
 	margin-top:10px;
 	}
-.fa-facebook, .fa-twitter, .fa-google-plus, .fa-github-alt, .fa fa-linkedin {
+.fa-facebook, .fa-twitter, .fa-google-plus, .fa-github-alt, .fa-linkedin, .fa-instagram, .fa-youtube {
 	font-size:1.5em !important;
 	width:40px;
 	height:40px;
