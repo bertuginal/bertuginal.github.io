@@ -578,13 +578,13 @@
 	box-shadow:0 0 5px #000;
 	padding-top:15px;
 	}
-.all-my-skill-items .fa-eye, .all-my-skill-items .fa-pie-chart, .all-my-skill-items .fa-mobile, .all-my-skill-items .fa-html5,.all-my-skill-items .fa-code,.all-my-skill-items .fa-cogs{
+.all-my-skill-items .fa-eye, .all-my-skill-items .fa-pie-chart, .all-my-skill-items .fa-mobile, .all-my-skill-items .fa-html5,.all-my-skill-items .fa-code,.all-my-skill-items .fa-cogs, .all-my-skill-items .fa-gamepad{
 	display:block;
 	font-size:5em;
 	color:#fff;
 	margin-bottom:10px;
 	}
-.all-my-skill-items .fa-html5, .all-my-skill-items .fa-pie-chart,.all-my-skill-items .fa-code,.all-my-skill-items .fa-cogs {
+.all-my-skill-items .fa-html5, .all-my-skill-items .fa-pie-chart,.all-my-skill-items .fa-code,.all-my-skill-items .fa-cogs, .all-my-skill-items .fa-gamepad {
 	font-size:4em !important;
 	margin-top:10px !important;
 	}
